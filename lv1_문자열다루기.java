@@ -18,7 +18,6 @@ class Solution {
        int i =0;
       if(s.length()==4 || s.length()==6) {
 
-
           while( i<s.length()) {
               char c = s.charAt(i);
                 if (Character.isDigit(c)) {
